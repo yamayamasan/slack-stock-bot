@@ -1,0 +1,23 @@
+{
+  "name": "stockprice-realm",
+  "node": "7.4.0",
+  "version": "0.0.1",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.4.9",
+    "cheerio-httpcli": "^0.6.10",
+    "co": "^4.6.0",
+    "cron": "^1.2.1",
+    "hjson": "^2.4.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.17.1",
+    "realm": "^0.15.4",
+    "slackbots": "^1.0.2",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-hjson": "^2.0.3"
+  }
+}

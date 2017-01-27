@@ -1,0 +1,10 @@
+{
+  /*
+  関数名 : 受け取るメッセージ
+  */
+  "current": ["current", "株価"],
+  "save": ["save", "保存する"] ,
+  "list": ["list", "show list", "一覧を見る"],
+  "tag_create": ["tag create", "タグを作る", "タグ作成"],
+  "help": ["help", "ヘルプ"]
+}
